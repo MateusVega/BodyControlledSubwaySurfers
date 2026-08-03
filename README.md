@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="BCSS Logo.png"
+  <img src="assets/BCSS Logo.png"
        alt="BCSS Logo"
        width="500">
 </h1>
