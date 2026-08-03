@@ -10,6 +10,8 @@ Control Subway Surfers (or other keyboard-based games) using your body movements
 
 This project uses MediaPipe Pose to detect your body position in real time and converts your movements into keyboard and mouse inputs.
 
+![Subway Surfers](assets/subwaysurfers.gif)
+
 ## Features
 - Move left and right by shifting your body.
 - Jump by raising your body.
